@@ -1,16 +1,18 @@
 # 📦 End-to-End Data Dashboard – Blinkit
 
+![Blinkit Dashboard Preview](https://github.com/user-attachments/assets/73ac99d7-814e-43ea-9a5d-126c7299bfe4)
+
 This repository contains an interactive Power BI dashboard built as an end-to-end data solution for **Blinkit**, a quick commerce/grocery delivery platform. The report offers deep insights into operational metrics, customer behavior, and business performance.
 
 ## 📊 About the Dashboard
 
 The `Blinkit Dashboard.pbix` file is a Power BI report that includes:
 
-- Sales and revenue analysis
-- Customer segmentation and purchase patterns
-- Product category insights
-- Delivery efficiency and order trends
-- Visual storytelling with interactive slicers and KPIs
+- Sales and revenue analysis  
+- Customer segmentation and purchase patterns  
+- Product category insights  
+- Delivery efficiency and order trends  
+- Visual storytelling with interactive slicers and KPIs  
 
 ## 🧰 Tools Used
 
@@ -22,11 +24,6 @@ The `Blinkit Dashboard.pbix` file is a Power BI report that includes:
 ## 📁 File
 
 - `Blinkit Dashboard.pbix` – The Power BI Desktop file. Open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
-
-## 🖼️ Dashboard Preview
-
-(https://github.com/user-attachments/assets/73ac99d7-814e-43ea-9a5d-126c7299bfe4)
-)
 
 ## 📝 How to Use
 
