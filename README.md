@@ -25,10 +25,8 @@ The `Blinkit Dashboard.pbix` file is a Power BI report that includes:
 
 ## 🖼️ Dashboard Preview
 
-![Blinkit Dashboard Preview](images/![image](https://github.com/user-attachments/assets/73ac99d7-814e-43ea-9a5d-126c7299bfe4)
+(https://github.com/user-attachments/assets/73ac99d7-814e-43ea-9a5d-126c7299bfe4)
 )
-
-<sub>*Screenshot of the Power BI dashboard* – save your image in an `images/` folder or root directory and update the path above.</sub>
 
 ## 📝 How to Use
 
